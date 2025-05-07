@@ -1,0 +1,72 @@
+timestamp,window,app,button,left,right,middle
+2025-05-07 15:43:57,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,1,0,0
+2025-05-07 15:43:58,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,2,0,0
+2025-05-07 15:43:58,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,3,0,0
+2025-05-07 15:43:59,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,4,0,0
+2025-05-07 15:43:59,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,5,0,0
+2025-05-07 15:43:59,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,6,0,0
+2025-05-07 15:43:59,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,7,0,0
+2025-05-07 15:44:02,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,8,0,0
+2025-05-07 15:44:03,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,9,0,0
+2025-05-07 15:44:03,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,10,0,0
+2025-05-07 15:44:04,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,11,0,0
+2025-05-07 15:44:04,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,12,0,0
+2025-05-07 15:44:05,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,13,0,0
+2025-05-07 15:44:05,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,14,0,0
+2025-05-07 15:44:05,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,15,0,0
+2025-05-07 15:44:05,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,16,0,0
+2025-05-07 15:44:05,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,17,0,0
+2025-05-07 15:44:05,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,18,0,0
+2025-05-07 15:44:05,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,19,0,0
+2025-05-07 15:44:06,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,20,0,0
+2025-05-07 15:44:06,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,21,0,0
+2025-05-07 15:44:06,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,22,0,0
+2025-05-07 15:44:06,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,23,0,0
+2025-05-07 15:44:08,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,24,0,0
+2025-05-07 15:44:09,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.right,0,1,0
+2025-05-07 15:44:09,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.right,0,2,0
+2025-05-07 15:44:10,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.right,0,3,0
+2025-05-07 15:44:10,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.left,1,3,0
+2025-05-07 15:44:10,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.right,1,4,0
+2025-05-07 15:44:11,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.left,2,4,0
+2025-05-07 15:44:11,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.right,2,5,0
+2025-05-07 15:44:11,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.left,3,5,0
+2025-05-07 15:44:12,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.right,3,6,0
+2025-05-07 15:44:12,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.left,4,6,0
+2025-05-07 15:44:12,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.left,5,6,0
+2025-05-07 15:44:12,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.left,6,6,0
+2025-05-07 15:44:12,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.left,7,6,0
+2025-05-07 15:44:12,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.right,7,7,0
+2025-05-07 15:44:13,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.left,8,7,0
+2025-05-07 15:44:13,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.right,8,8,0
+2025-05-07 15:44:13,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.left,9,8,0
+2025-05-07 15:44:13,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.left,10,8,0
+2025-05-07 15:44:14,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.left,11,8,0
+2025-05-07 15:44:15,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.left,12,8,0
+2025-05-07 15:44:24,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,25,0,0
+2025-05-07 15:44:29,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,26,0,0
+2025-05-07 15:44:29,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,27,0,0
+2025-05-07 15:44:29,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,28,0,0
+2025-05-07 15:44:30,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,29,0,0
+2025-05-07 15:44:30,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,30,0,0
+2025-05-07 15:44:30,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,31,0,0
+2025-05-07 15:44:30,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,32,0,0
+2025-05-07 15:44:30,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,33,0,0
+2025-05-07 15:44:30,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,34,0,0
+2025-05-07 15:44:30,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,35,0,0
+2025-05-07 15:44:31,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,36,0,0
+2025-05-07 15:44:31,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,37,0,0
+2025-05-07 15:44:34,Autodesk AutoCAD 2023 - [Drawing1.dwg],AutoCAD,Button.left,38,0,0
+2025-05-07 15:44:36,Autodesk Revit 2025.4 - [專案0414.rvt - 樓板平面圖: FL1],Revit,Button.left,13,8,0
+2025-05-07 15:44:52,AutoCAD & Revit 滑鼠點擊統計工具下載 - Avast Secure Browser,AutoCAD,Button.left,39,0,0
+2025-05-07 15:44:53,AutoCAD & Revit 滑鼠點擊統計工具下載 - Avast Secure Browser,AutoCAD,Button.left,40,0,0
+2025-05-07 15:44:55,AutoCAD & Revit 滑鼠點擊統計工具下載 - Avast Secure Browser,AutoCAD,Button.left,41,0,0
+2025-05-07 15:45:26,AutoCAD & Revit 滑鼠點擊統計工具下載 - Avast Secure Browser,AutoCAD,Button.left,42,0,0
+2025-05-07 15:45:28,AutoCAD & Revit 滑鼠點擊統計工具下載 - Avast Secure Browser,AutoCAD,Button.left,43,0,0
+2025-05-07 15:45:29,AutoCAD & Revit 滑鼠點擊統計工具下載 - Avast Secure Browser,AutoCAD,Button.left,44,0,0
+2025-05-07 15:47:59,AutoCAD & Revit 滑鼠點擊統計工具下載 - Avast Secure Browser,AutoCAD,Button.left,45,0,0
+2025-05-07 15:48:01,AutoCAD & Revit 滑鼠點擊統計工具下載 - Avast Secure Browser,AutoCAD,Button.left,46,0,0
+2025-05-07 15:50:35,AutoCAD & Revit 滑鼠點擊統計工具下載 - Avast Secure Browser,AutoCAD,Button.left,47,0,0
+2025-05-07 15:50:36,AutoCAD & Revit 滑鼠點擊統計工具下載 - Avast Secure Browser,AutoCAD,Button.left,48,0,0
+2025-05-07 16:04:29,AutoCAD & Revit 滑鼠點擊統計工具下載 - Avast Secure Browser,AutoCAD,Button.left,49,0,0
+2025-05-07 16:04:39,AutoCAD & Revit 滑鼠點擊統計工具下載 - Avast Secure Browser,AutoCAD,Button.left,50,0,0

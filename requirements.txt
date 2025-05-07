@@ -1,0 +1,4 @@
+pandas
+pynput
+pywin32
+keyboard
